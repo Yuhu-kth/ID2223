@@ -5,4 +5,4 @@
 #### Huggingface Iris monitor : https://huggingface.co/spaces/Hannnnnah/Iris_monitor
 ### task2 Titanic Dataset
 #### Huggingface Titanic : https://huggingface.co/spaces/Hannnnnah/Titanic
-#### Huggingface Titanic monitor : 
+#### Huggingface Titanic monitor : https://huggingface.co/spaces/Hannnnnah/Titanic_monitor
