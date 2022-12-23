@@ -8,7 +8,7 @@
 #### Huggingface Titanic monitor : https://huggingface.co/spaces/Hannnnnah/Titanic_monitor
 
 ## Lab2 Whisper
-#### Huggingface whisper: 
+#### Huggingface whisper: https://huggingface.co/spaces/Hannnnnah/Whisper-small
 #### Ways that can improve model's performance:
 #### Model-Centric:
 #### Parameters setting:
