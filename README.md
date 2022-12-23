@@ -1,11 +1,5 @@
 # ID2223-Scalable-ml-and-dl
-## Lab1
-### task1 Iris Dataset
-#### Huggingface Iris : https://huggingface.co/spaces/Hannnnnah/Iris
-#### Huggingface Iris monitor : https://huggingface.co/spaces/Hannnnnah/Iris_monitor
-### task2 Titanic Dataset
-#### Huggingface Titanic : https://huggingface.co/spaces/Hannnnnah/Titanic
-#### Huggingface Titanic monitor : https://huggingface.co/spaces/Hannnnnah/Titanic_monitor
+## Project- Air quality prediction
 
 ## Lab2 Whisper
 #### Huggingface whisper: https://huggingface.co/spaces/Hannnnnah/Whisper-small
@@ -21,5 +15,14 @@
 #### Data-Centric:
 #### 1. Include more data
 #### 2. Data augmentation: Process the data with different methods like cutting each sample into several clips and then shuffle them and re-combine them together. This can be done under the situation of limited data.
+
+## Lab1
+### task1 Iris Dataset
+#### Huggingface Iris : https://huggingface.co/spaces/Hannnnnah/Iris
+#### Huggingface Iris monitor : https://huggingface.co/spaces/Hannnnnah/Iris_monitor
+### task2 Titanic Dataset
+#### Huggingface Titanic : https://huggingface.co/spaces/Hannnnnah/Titanic
+#### Huggingface Titanic monitor : https://huggingface.co/spaces/Hannnnnah/Titanic_monitor
+
 
 
