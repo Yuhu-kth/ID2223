@@ -1,7 +1,7 @@
-# ID2223-Scalable-ml-and-dl
-## Project- Air quality prediction
+ID2223-Scalable-ml-and-dl
+# Project- Air quality prediction
 
-## Lab2 Whisper
+# Lab2 Whisper
 #### Huggingface whisper: https://huggingface.co/spaces/Hannnnnah/Whisper-small
 #### Ways that can improve model's performance:
 #### Model-Centric:
@@ -16,7 +16,7 @@
 #### 1. Include more data
 #### 2. Data augmentation: Process the data with different methods like cutting each sample into several clips and then shuffle them and re-combine them together. This can be done under the situation of limited data.
 
-## Lab1
+# Lab1
 ### task1 Iris Dataset
 #### Huggingface Iris : https://huggingface.co/spaces/Hannnnnah/Iris
 #### Huggingface Iris monitor : https://huggingface.co/spaces/Hannnnnah/Iris_monitor
