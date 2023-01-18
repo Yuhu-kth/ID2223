@@ -1,0 +1,9 @@
+# hopsworks
+joblib==1.2.0
+# scikit-learn
+# seaborn
+# dataframe-image
+# modal-client
+# gradio
+# datetime
+# python-dotenv
